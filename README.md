@@ -1,5 +1,4 @@
-# Notes
-`a collection by Rohith Krishna`
+`a collection, by Rohith Krishna`
 
 ### October 2020
 - 30 Oct 2020 - [**Linear Regression**, basics of econometrics, CLRM assumptions, BLUE property, hypothesis testing in linear regression, linear model with 2 independent variables.](./2020-10-30-linear-regression-econometrics-basics.pdf)
