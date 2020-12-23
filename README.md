@@ -1,5 +1,9 @@
 `a collection of writings by Rohith Krishna`
 
+```
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+```
+
 ### October 2020
 
 - 30 Oct 2020 - [**Linear Regression**, basics of econometrics, CLRM assumptions, BLUE property, hypothesis testing in linear regression, linear model with 2 independent variables.](./2020-10-30-linear-regression-econometrics-basics.pdf)
