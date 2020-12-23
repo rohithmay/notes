@@ -7,3 +7,9 @@
 - 29 Sep 2020 - [**K-means Clustering**, distortion measure, image segmentation, lossy algorithm.](./2020-09-29-kmeans-clustering.pdf)
 - 20 July 2020 - [**Quantum Computing**, Introduction to quantum computing, Teleportation, Bell States, Entanglement, Multipartite states, Deutsch-Jorza algorithm](./2020-07-20-quantum-computing-qiskit-lecture.pdf)
 
+
+
+Inline math mode here $a^2 = \int f(x)dx$
+
+$$a^2 = \Sigma f(x)dx$$
+
