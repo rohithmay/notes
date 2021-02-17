@@ -1,9 +1,22 @@
-`a collection of writings by Rohith Krishna`
+`a collection of notes by Rohith Krishna`
 
-### October 2020
 
-- 30 Oct 2020 - [**Linear Regression**, basics of econometrics, CLRM assumptions, BLUE property, hypothesis testing in linear regression, linear model with 2 independent variables.](./2020-10-30-linear-regression-econometrics-basics.pdf)
-- 09 Oct 2020 - [**Mechanics of Options**, option payoff charts, lower and upper bounds on option prices for dividend and non-dividend stocks, put-call parity](./2020-10-09-mechanics-of-options.pdf)
-- 29 Sep 2020 - [**K-means Clustering**, distortion measure, image segmentation, lossy algorithm.](./2020-09-29-kmeans-clustering.pdf)
-- 20 July 2020 - [**Quantum Computing**, Introduction to quantum computing, Teleportation, Bell States, Entanglement, Multipartite states, Deutsch-Jorza algorithm](./2020-07-20-quantum-computing-qiskit-lecture.pdf)
+
+**Posts**
+
+**[Continuous Time Markov Chains](./html/2021-02-16-ctmc-lecture-notes.html)** - Chapman-Kolmogorov equation, Rate Matrix, Forward and Backward Kolmogorov Equations, Specification of CTMC and its stationary distribution. 
+
+
+
+**Handwritten Notes**
+
+**[Introduction to Quantum Computing](./pdf/2020-07-20-quantum-computing-qiskit-lecture.pdf)** - Introduction to quantum computing, Teleportation, Bell States, Entanglement, Multipartite states, Deutsch-Jorza algorithm 
+
+**[Linear Regression](./pdf/2020-10-30-linear-regression-econometrics-basics.pdf)** - basics of econometrics, CLRM assumptions, BLUE property, hypothesis testing in linear regression, linear model with 2 independent variables.
+
+**[Mechanics of Options](./pdf/2020-10-09-mechanics-of-options.pdf)** - Option payoff charts, lower and upper bounds on option prices for dividend and non-dividend stocks, Put-Call parity for European options
+
+**[K-Means Clustering](./pdf/2020-09-29-kmeans-clustering/pdf)** - K-Means algorithm, distortion measure, image segmentation, lossy algorithm.
+
+ 
 
