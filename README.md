@@ -6,11 +6,15 @@
 
 ## Posts
 
-**Stochastic Processes in Finance**
+### Stochastic Processes in Finance
 
 **[Continuous Time Markov Chains](./html/2021-02-16-ctmc-lecture-notes.html)** - Chapman-Kolmogorov equation, Rate Matrix, Forward and Backward Kolmogorov Equations, Specification of CTMC and its stationary distribution. 
 
 
+
+### Financial Instruments
+
+**[Fundamentals of Bond Pricing](./html/2020-12-20-fundamentals-of-bonds.html)** - Introduction to Bonds, Yield, Coupon, and other terminology, Bond Pricing, Effect of change in parameters on Bond Value, Treasury securities, ZCB, Callable and Puttable bonds, Risks involved with Bonds, Clean and Dirty Price, Accrued Interest
 
 
 
