@@ -1,14 +1,22 @@
+# [Notes](https://rohithkrishna.in/notes)
+
 `a collection of notes by Rohith Krishna`
 
 
 
-**Posts**
+## Posts
+
+**Stochastic Processes in Finance**
 
 **[Continuous Time Markov Chains](./html/2021-02-16-ctmc-lecture-notes.html)** - Chapman-Kolmogorov equation, Rate Matrix, Forward and Backward Kolmogorov Equations, Specification of CTMC and its stationary distribution. 
 
 
 
-**Handwritten Notes**
+
+
+
+
+## Handwritten Notes
 
 **[Introduction to Quantum Computing](./pdf/2020-07-20-quantum-computing-qiskit-lecture.pdf)** - Introduction to quantum computing, Teleportation, Bell States, Entanglement, Multipartite states, Deutsch-Jorza algorithm 
 
