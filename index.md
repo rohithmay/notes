@@ -8,7 +8,9 @@
 
 ### Stochastic Processes in Finance
 
-**[Continuous Time Markov Chains](./html/2021-02-16-ctmc-lecture-notes.html)** - Chapman-Kolmogorov equation, Rate Matrix, Forward and Backward Kolmogorov Equations, Specification of CTMC and its stationary distribution. 
+**[Continuous Time Markov Chains](./html/2021-02-16-ctmc-lecture-notes.html)** - Chapman-Kolmogorov equation, Rate Matrix, Forward and Backward Kolmogorov Equations, Specification of CTMC and its stationary distribution.
+
+**[Martingales](./html/2021-02-18-martingales-lecture-notes.html)** - Introduction to Martingales, Construction, Converting a stochastic process to Martingale, Conservation of Expectations, Law of Iterated Expectations and Information Flow.
 
 
 
